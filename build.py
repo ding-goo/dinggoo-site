@@ -185,7 +185,7 @@ Your child's device
 def index() -> str:
     content = f"""<article class="hero" lang="ar" dir="rtl">
 <h1>DING GOO</h1>
-<p>يحوّل رسائل المدرسة إلى مهام منظّمة لكل طفل، على iPhone وiPad.</p>
+<p>يحوّل رسائل المدرسة إلى مهام منظّمة لكل طفل، على iPhone و iPad.</p>
 <p class="meta" lang="en" dir="ltr">Turns school messages into organised tasks for each child, on iPhone and iPad.</p>
 <div class="links">
 <a href="/privacy/">سياسة الخصوصية · Privacy</a>
